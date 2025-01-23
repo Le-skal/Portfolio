@@ -35,18 +35,9 @@
     --line-height-small: 1.2;
 
     --black: #63786c;
-    --pink: #cc8181;
+    --pink: #F9E9D5;
     --white: #f0e9f2;
     --white-1: #e5e5e6da;
-    --accent1               : #ffe8cc;
-    --accent2               : #d6a995;
-    --text-color            : #cc8181;
-    --window-background     : #63786c;
-    --border-color          : #d8ac9c;
-    --hp-ammo               : #ffffff;
-    --weapon-icon-brightness: 2;
-    --bg-color              : white;
-    --bg-text               : black;
 
     --container-max-width: 1180px;
     --container-normal-width: 800px;
