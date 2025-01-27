@@ -41,3 +41,12 @@ window.addEventListener("scroll", () => {
     alterStyles(isBackToTopRendered);
   }
 });
+
+window.addEventListener('scroll', () => {
+  const backToTopButton = document.querySelector('.back-to-top');
+  if (window.scrollY > 600) {
+    backToTopButton.classList.add('back-to-top--show');
+  } else {
+    backToTopButton.classList.remove('back-to-top--show');
+  }
+});
