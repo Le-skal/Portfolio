@@ -1,0 +1,111 @@
+{
+  "profile": {
+    "about": {
+      "nationality": "Français",
+      "location": "Paris",
+      "background": "Salut ! Je m'appelle Raphael, j'ai 21 ans et je suis Data Analyst en alternance chez L'AGEFI. Au-delà des lignes de code et des dashboards, je suis quelqu'un qui a traversé le monde pour trouver sa voie."
+    }
+  },
+  
+  "mon_histoire": {    
+    "chapters": [
+      {
+        "title": "Les Premières Années : Hong Kong",
+        "content": "Mon histoire commence loin de Paris. J'ai grandi à Hong Kong, une ville où l'Orient rencontre l'Occident, où les gratte-ciels côtoient les temples traditionnels. Cette enfance internationale m'a appris très tôt à naviguer entre les cultures, à m'adapter, à rester curieux. C'est peut-être là que mon goût pour résoudre des problèmes complexes a pris racine : quand on grandit entre plusieurs mondes, on apprend à connecter les points différemment."
+      },
+      {
+        "title": "L'Aventure Néerlandaise : Découverte de l'IA",
+        "content": "Après le lycée, direction les Pays-Bas à l'University of Groningen pour étudier l'informatique et l'intelligence artificielle. Les cours sur le machine learning, les algorithmes, la façon dont les données racontent des histoires... j'étais fasciné. Mais l'approche très académique ne me permettait pas assez de mettre les mains dans le cambouis, de créer des choses concrètes. Je voulais voir l'impact direct de mon travail."
+      },
+      {
+        "title": "Paris et l'ECE : Le Déclic",
+        "content": "J'ai rejoint l'ECE Paris pour un programme plus appliqué. Des projets en équipe, des cas réels, la possibilité de développer des applications qui servent vraiment. J'ai compris que ce n'était pas juste coder qui m'intéressait, mais résoudre des problèmes concrets avec la technologie. Créer des outils que les gens utilisent réellement."
+      },
+      {
+        "title": "L'AGEFI : La Tech au Service de l'Information",
+        "content": "Mon alternance à L'AGEFI a été une école formidable. Un média financier de référence, des journalistes experts, et moi qui dois comprendre leurs besoins et créer des outils pour automatiser leurs processus. J'ai appris à parler métier, à comprendre qu'un bon outil technique ne vaut rien s'il ne répond pas à un vrai besoin. J'automatise des newsletters, je crée des dashboards analytics, je développe des systèmes d'analyse de documents. Chaque jour, je vois l'impact de mon travail."
+      },
+      {
+        "title": "Aujourd'hui",
+        "content": "Je candidate pour des Masters en Data Engineering tout en travaillant sur des projets passionnants : simulateurs de trading avec du ML, analyses de données de santé publique, systèmes d'automatisation. Je sais où je veux aller : devenir Data Engineer, puis Senior, et pourquoi pas un jour Head of Data. Mais le chemin est aussi important que la destination."
+      }
+    ]
+  },
+  
+  "experiences_cles": [
+    {
+      "title": "Alternant Data & AI Developer - L'AGEFI",
+      "period": "2023 - Présent",
+      "description": "Au sein de l'équipe digitale d'un média financier de référence",
+      "achievements": [
+        "Automatisation des processus éditoriaux avec n8n et APIs, réduisant de 70% le temps de préparation des newsletters quotidiennes",
+        "Développement de dashboards Piano Analytics connectés à BigQuery, utilisés quotidiennement par 15+ journalistes",
+        "Mise en place d'une solution RAG pour l'interrogation intelligente de documents financiers, accélérant la recherche d'informations de 50%",
+        "Construction de pipelines ETL en Python pour l'analyse automatisée d'articles financiers"
+      ]
+    },
+    {
+      "title": "Développeur - Junior Entreprise ECE",
+      "period": "2022 - 2023",
+      "description": "Missions client au sein de la Junior Entreprise",
+      "achievements": [
+        "Développement d'un pipeline ETL en Python automatisant la consolidation de données client et éliminant 100% des erreurs de saisie",
+        "Création d'une application de monitoring média avec n8n pour l'agrégation automatique de sources d'information"
+      ]
+    },
+    {
+      "title": "Projets Académiques & Personnels",
+      "period": "2021 - Présent",
+      "description": "Développement d'applications data et web innovantes",
+      "achievements": [
+        "Application web de data visualisation (R/Shiny) pour l'analyse de données de santé publique",
+        "Simulateur de trading ML combinant machine learning et analyse de sentiment sur l'actualité financière française",
+        "Analyse cancer research investment comparant investissements mondiaux et taux de mortalité (données WHO, PubMed, clinical trials)",
+        "Projets variés : jeux, applications web, challenges de programmation en Python, Java, C/C++"
+      ]
+    }
+  ],
+  
+  "adn": {
+    "competences": [
+      {
+        "name": "Expertise Technique",
+        "description": "Maîtrise des langages de programmation (Python, SQL, Java, C/C++, JavaScript, R, PHP) et des plateformes cloud (AWS, Google Cloud). Expérience avec les outils d'orchestration comme n8n pour concevoir des solutions fiables et scalables."
+      },
+      {
+        "name": "Sens du Business",
+        "description": "Capacité à comprendre les enjeux métiers pour prioriser les développements. Sensibilité à l'UX et aux tests utilisateurs pour garantir l'adoption des outils créés."
+      },
+      {
+        "name": "Pédagogie & Collaboration",
+        "description": "Aptitude à former les équipes sur les nouveaux outils et à travailler en synergie avec les data scientists et business analysts."
+      }
+    ]
+  },
+  
+  "approche_valeurs": {
+    "working_style": "Analytique et structuré, je combine rigueur technique avec curiosité et ingéniosité. J'aime le travail en équipe et les défis collectifs dans un environnement collaboratif et bienveillant.",
+    "values": "Sociable et communiquant, l'éthique est une valeur essentielle dans mon travail comme dans ma vie personnelle."
+  },
+  
+  "aspirations": {
+    "immediate": "Devenir Data Engineer au sein d'une entreprise innovante et vectrice de progrès.",
+    "five_years": "Évoluer vers un rôle de Data Engineer Senior pour concevoir des architectures techniques et mentorer les juniors.",
+    "ten_years": "Avoir un impact stratégique en tant que Principal Data Engineer ou Head of Data pour piloter la stratégie data d'une organisation."
+  },
+  
+  "personal": {
+    "hobbies": [
+      "Guitare",
+      "Escalade",
+      "Vélo",
+      "Pétanque",
+      "Cafés parisiens entre amis"
+    ],
+    "inspiration": [
+      "La créativité par la musique",
+      "Les connexions sociales",
+      "L'aide humanitaire avec l'ONG MAYAA (organisation centrée sur le Népal)"
+    ]
+  }
+}
