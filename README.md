@@ -44,7 +44,7 @@
   <img 
     src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=le-skal&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&size_weight=0.5&count_weight=0.5"
     height="190"
-    alt="Top Languages" />
+    alt="Top Languages: " />
 </picture>
 </div>
 
