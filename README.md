@@ -24,7 +24,29 @@
   <img src="https://skillicons.dev/icons?i=python,js,postgres,googlecloud,docker,raspberrypi,tailwind,vscode,git,linux&theme=light" height="36" />
 </a>
 
+<div>
+<br/>
 
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=le-skal&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=3B82F6&icon_color=60A5FA" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=le-skal&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
+    height="190" 
+    alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=le-skal&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3B82F6&icon_color=60A5FA&langs_count=8&size_weight=0.5&count_weight=0.5" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=le-skal&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&size_weight=0.5&count_weight=0.5"
+    height="190"
+    alt="Top Languages:" />
+</picture>
+</div>
 
 <picture>
   <source 
