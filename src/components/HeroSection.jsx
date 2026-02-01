@@ -27,7 +27,7 @@ export const HeroSection = ({ onOpenWindow }) => {
     {
       title: t("hero.cv"),
       icon: <IconFileText className="h-full w-full text-foreground/80" />,
-      href: language === 'fr' ? 'https://raw.githubusercontent.com/Le-skal/js_portfolio/main/docs/CV_FR.pdf' : 'https://raw.githubusercontent.com/Le-skal/js_portfolio/main/docs/CV_EN.pdf',
+      href: language === 'fr' ? 'https://raw.githubusercontent.com/Le-skal/portfolio/main/docs/CV_FR.pdf' : 'https://raw.githubusercontent.com/Le-skal/portfolio/main/docs/CV_EN.pdf',
     },
     {
       title: "GitHub",
@@ -115,7 +115,7 @@ export const HeroSection = ({ onOpenWindow }) => {
               {/* Description with better spacing */}
               <div className="max-w-3xl mx-auto">
                 <p className="text-[#b0bec5] text-xl md:text-2xl italic tracking-wide"
-                   style={{ textShadow: 'rgba(0, 0, 0, 0.3) 0px 2px 8px' }}>
+                  style={{ textShadow: 'rgba(0, 0, 0, 0.3) 0px 2px 8px' }}>
                   {t("hero.description")}
                 </p>
               </div>
